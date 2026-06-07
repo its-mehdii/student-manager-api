@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Kourosh Zarandooz",
+    "major": "Computer Engineering",
+    "gpa": 17.5,
+    "email": null
+  },
+  {
+    "id": 2,
+    "name": "Aria Rahmati",
+    "major": "Software Engineering",
+    "gpa": 18.2,
+    "email": null
+  },
+  {
+    "id": 3,
+    "name": "Iman Dastpak",
+    "major": "Information Technology",
+    "gpa": 15.8,
+    "email": null
+  },
+  {
+    "id": 4,
+    "name": "Kimia Ravangar",
+    "major": "Computer Engineering",
+    "gpa": 19.0,
+    "email": null
+  },
+  {
+    "id": 5,
+    "name": "Omid Mosalaee",
+    "major": "Electrical Engineering",
+    "gpa": 14.3,
+    "email": "o.mosalaee@university.ac.ir"
+  },
+  {
+    "id": 6,
+    "name": "Niloofar Sadeghi",
+    "major": "Artificial Intelligence",
+    "gpa": 19.5,
+    "email": "n.sadeghi@university.ac.ir"
+  },
+  {
+    "id": 7,
+    "name": "Masoud Teimoori",
+    "major": "Cybersecurity",
+    "gpa": 16.7,
+    "email": "m.teimoori@university.ac.ir"
+  },
+  {
+    "id": 8,
+    "name": "Tara Hosseini",
+    "major": "Software Engineering",
+    "gpa": 18.9,
+    "email": "t.hosseini@university.ac.ir"
+  }
+]
